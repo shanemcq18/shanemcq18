@@ -1,6 +1,6 @@
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
-### Recent Publications
+### Recent Preprints / Publications
 
 - [**Data-driven reduced-order models via regularized operator inference for a single-injector combustion process**](https://arxiv.org/abs/2008.02862)<details><summary>BibTeX</summary><pre>
 @article{MHW2020regOpInfCombustion,
