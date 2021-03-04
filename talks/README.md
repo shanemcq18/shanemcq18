@@ -2,7 +2,9 @@
 
 Slides and code accompanying presentations given in research talks, class projects, and so on.
 
-- [**2020-09-08-MORSS20-RegOpInf**](./2020-09-08-MORSS20-RegOpInf.pdf): a poster accompanying the paper [_Data-driven reduced-order models via regularized operator inference for a single-injector combustion process_](https://arxiv.org/abs/2008.02862), presented at the [Model Order Reduction Summer School 2020](https://morss2020.epfl.ch/) hosted by [EPFL](https://www.epfl.ch/).
+- [**2021-03-01-SIAMCSE21-RegOpInf**](./2021-03-01-SIAMCSE21-RegOpInf.pdf): minisymposium [_Data-driven reduced-order models via regularised operator inference_](https://www.tandfonline.com/doi/full/10.1080/03036758.2020.1863237), given at [SIAM CSE 2021](https://www.siam.org/conferences/cm/conference/cse21) as part of the [BGCE Student Paper Prize competition](https://www.in.tum.de/i05/aktuelles/aktuelles/news/news-details/article/8th-bgce-student-paper-prize/) (finalist).
+
+- [**2020-09-08-MORSS20-RegOpInf**](./2020-09-08-MORSS20-RegOpInf.pdf): a poster accompanying the paper [_Data-driven reduced-order models via regularised operator inference for a single-injector combustion process_](https://arxiv.org/abs/2008.02862), presented at the [Model Order Reduction Summer School 2020](https://morss2020.epfl.ch/) hosted by [EPFL](https://www.epfl.ch/).
 
 - [**2019-12-10-CSE392-Reprojection**](./2019-12-10-CSE392-Reprojection.pdf): an overview of the paper [_Sampling low-dimensional Markovian dynamics for pre-asymptotically recovering reduced models from data with operator inference_](https://arxiv.org/abs/1908.11233), written as a final project for a class on scientific computational machine / deep learning at [the Oden Institute](https://www.oden.utexas.edu/).
 
