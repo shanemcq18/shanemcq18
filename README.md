@@ -2,12 +2,16 @@
 
 ### Recent Preprints / Publications
 
-- [**Data-driven reduced-order models via regularized operator inference for a single-injector combustion process**](https://arxiv.org/abs/2008.02862)<details><summary>BibTeX</summary><pre>
-@article{MHW2020regOpInfCombustion,
-    title   = {Data-driven reduced-order models via regularized operator inference for a single-injector combustion process},
-    author  = {McQuarrie, S. A. and Huang, C. and Willcox, K.},
-    journal = {arXiv preprint arXiv:2008.02862},
-    year    = {2020}
+- [**Data-driven reduced-order models via regularised Operator Inference for a single-injector combustion process**](https://arxiv.org/abs/2008.02862)<details><summary>BibTeX</summary><pre>
+@article{MHW2021regOpInfCombustion,
+    author    = {Shane A. McQuarrie and Cheng Huang and Karen E. Willcox},
+    title     = {Data-driven reduced-order models via regularised Operator Inference for a single-injector combustion process},
+    journal   = {Journal of the Royal Society of New Zealand},
+    volume    = {51},
+    number    = {2},
+    pages     = {194--211},
+    year      = {2021},
+    publisher = {Taylor & Francis},
 }</pre></details>
 
 - [**Data assimilation in large-Prandtl Rayleigh-Bénard convection from thermal measurements**](https://epubs.siam.org/doi/abs/10.1137/19M1248327)<details><summary>BibTeX</summary><pre>
