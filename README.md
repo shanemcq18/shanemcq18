@@ -4,26 +4,22 @@
 
 - [**Data-driven reduced-order models via regularised Operator Inference for a single-injector combustion process**](https://arxiv.org/abs/2008.02862)<details><summary>BibTeX</summary><pre>
 @article{MHW2021regOpInfCombustion,
-    author    = {Shane A. McQuarrie and Cheng Huang and Karen E. Willcox},
-    title     = {Data-driven reduced-order models via regularised Operator Inference for a single-injector combustion process},
-    journal   = {Journal of the Royal Society of New Zealand},
-    volume    = {51},
-    number    = {2},
-    pages     = {194--211},
-    year      = {2021},
-    publisher = {Taylor & Francis},
+author    = {Shane A. McQuarrie and Cheng Huang and Karen E. Willcox},
+title     = {Data-driven reduced-order models via regularised Operator Inference for a single-injector combustion process},
+journal   = {Journal of the Royal Society of New Zealand},
+volume    = {51},
+number    = {2},
+pages     = {194--211},
+year      = {2021},
+publisher = {Taylor & Francis},
 }</pre></details>
 
-- [**Data assimilation in large-Prandtl Rayleigh-Bénard convection from thermal measurements**](https://epubs.siam.org/doi/abs/10.1137/19M1248327)<details><summary>BibTeX</summary><pre>
-@article{FGMMW2020RBDAfromThermal,
-    title     = {Data Assimilation in Large {P}randtl {R}ayleigh-{B}{\\'e}nard Convection from Thermal Measurements},
-    author    = {Farhat, A. and Glatt-Holtz, N. E. and Martinez, V. R. and McQuarrie, S. A. and Whitehead, J. P.},
-    journal   = {SIAM Journal on Applied Dynamical Systems},
-    volume    = {19},
-    number    = {1},
-    pages     = {510--540},
-    year      = {2020},
-    publisher = {SIAM}
+- [**Concurrent multi-parameter learning demonstrated on the Kuramoto-Sivashinsky equation**](https://arxiv.org/abs/2106.06069)<details><summary>BibTeX</summary><pre>
+@article{PWM2021multiparameterLearning,
+title   = {Concurrent multi-parameter learning demonstrated on the Kuramoto-Sivashinsky equation}, 
+author  = {Benjamin Pachev and Jared P. Whitehead and Shane A. McQuarrie},
+journal = {arXiv preprint arXiv:2106.06069},
+year    = {2021},
 }</pre></details>
 
 </td><td align="center" valign="top" width="180">
