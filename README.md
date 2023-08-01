@@ -2,6 +2,19 @@
 
 ### Recent Research Articles
 
+- [**Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference**](https://epubs.siam.org/doi/full/10.1137/21M1452810)<details><summary>BibTeX</summary><pre>
+@article{mcquarrie2023popinf,
+    title = {Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference},
+    author = {McQuarrie, Shane A. and Khodabakhshi, Parisa and Willcox, Karen E.},
+    journal = {SIAM Journal on Scientific Computing},
+    volume = {45},
+    number = {4},
+    pages = {A1917-A1946},
+    year = {2023},
+    doi = {10.1137/21M1452810},
+}
+</pre></details>
+
 - [**Bayesian operator inference for data-driven reduced-order modeling**](https://doi.org/10.1016/j.cma.2022.115336)<details><summary>BibTeX</summary><pre>
 @article{guo2022bayesopinf,
     title = {{B}ayesian operator inference for data-driven reduced-order modeling},
@@ -11,14 +24,6 @@
     volume = {402},
     pages = {115336},
     doi = {10.1016/j.cma.2022.115336},
-}</pre></details>
-
-- [**Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference**](https://arxiv.org/abs/2110.07653)<details><summary>BibTeX</summary><pre>
-@article{mcquarrie2021popinf,
-    author = {Shane A. McQuarrie and Parisa Khodabakhshi and Karen E. Willcox},
-    title = {Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference},
-    journal = {arXiv preprint arXiv:2110.07753},
-    year = {2021},
 }</pre></details>
 
 </td><td align="center" valign="top" width="180">
