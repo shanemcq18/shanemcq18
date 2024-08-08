@@ -62,9 +62,9 @@
     <a href="https://github.com/"><img src="https://img.shields.io/badge/-181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/></a>
     <a href="https://slack.com/"><img src="https://img.shields.io/badge/-4A154B.svg?style=flat-square&logo=slack&logoColor=white" height="25"/></a>
     <a href="https://zoom.us"><img src="https://img.shields.io/badge/-2D8CFF.svg?style=flat-square&logo=zoom&logoColor=white" height="25"/></a>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-FFFFFF.svg?style=flat-square" height="25" width="2"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-FFFFFF.svg?style=flat-square" height="25" width="3"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="25"/></a>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-FFFFFF.svg?style=flat-square" height="25" width="2"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-FFFFFF.svg?style=flat-square" height="25" width="1"/></a>
     <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-F37626.svg?style=flat-square&logo=jupyter&logoColor=white" height="25"/></a>
     <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/-47A141.svg?style=flat-square&logo=overleaf&logoColor=white" height="25"/></a>
     <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.shields.io/badge/-B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white" height="25"/></a> -->
