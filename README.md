@@ -2,13 +2,27 @@
 
 ### Recent Research Articles
 
-- [**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**](https://arxiv.org/abs/2408.03455) (Preprint)<details><summary>BibTex</summary><pre>
-@misc{mcquarrie2024gpbayesopinf,
+- [**Tensor parametric Hamiltonian operator inference**](https://arxiv.org/abs/2502.10888) (Preprint)<details><summary>BibTex</summary><pre>
+@misc{vijaywargiya2025tensoropinf,
+      title={Tensor parametric Hamiltonian operator inference}, 
+      author={Arjun Vijaywargiya and Shane A. McQuarrie and Anthony Gruber},
+      year={2025},
+      eprint={2502.10888},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2502.10888},
+}
+</pre></details>
+
+- [**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**](https://doi.org/10.1016/j.physd.2025.134572)<details><summary>BibTex</summary><pre>
+@article{mcquarrie2025gpbayesopinf,
     title = {Bayesian learning with {G}aussian processes for low-dimensional representations of time-dependent nonlinear systems}, 
     author = {Shane A. McQuarrie and Anirban Chaudhuri and Karen E. Willcox and Mengwu Guo},
-    year = {2024},
-    eprint = {2408.03455},
-    archivePrefix = {arXiv},
+    journal = {Physica D: Nonlinear Phenomena},
+    volume = {475},
+    pages = {134572},
+    year = {2025},
+    doi = {10.1016/j.physd.2025.134572},
 }
 </pre></details>
 
@@ -19,19 +33,6 @@
     year = {2023},
     doi = {10.26153/tsw/50172},
     school = {The University of Texas at Austin},
-}
-</pre></details>
-
-- [**Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference**](https://epubs.siam.org/doi/full/10.1137/21M1452810)<details><summary>BibTeX</summary><pre>
-@article{mcquarrie2023popinf,
-    title = {Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference},
-    author = {McQuarrie, Shane A. and Khodabakhshi, Parisa and Willcox, Karen E.},
-    journal = {SIAM Journal on Scientific Computing},
-    volume = {45},
-    number = {4},
-    pages = {A1917-A1946},
-    year = {2023},
-    doi = {10.1137/21M1452810},
 }
 </pre></details>
 
