@@ -1,6 +1,6 @@
 ### Big news!
 
-I am starting as an assistant professor in the [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/) this August.
+I started as an assistant professor in the [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/) this August.
 
 ### Recent research articles
 
