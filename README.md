@@ -4,6 +4,17 @@ I started as an assistant professor in the [Department of Mathematics](https://m
 
 ### Recent research articles
 
+- [**Toward real-time optimization through model reduction and model discrepancy sensitivities**](https://arxiv.org/abs/2508.21792) (Preprint)<details><summary>BibTex</summary><pre>
+@misc{hart2025realtime,
+    title={Toward real-time optimization through model reduction and model discrepancy sensitivities},
+    author = {Joseph Hart and Shane A McQuarrie and Zachary Morrow and Bart van Bloemen Waanders},
+    year = {2025},
+    eprint = {2508.21792},
+    archivePrefix = {arXiv},
+    primaryClass = {math.OC},
+    url = {https://arxiv.org/abs/2508.21792}, 
+}
+
 - [**Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces**](https://arxiv.org/abs/2506.10224) (Preprint)<details><summary>BibTex</summary><pre>
 @misc{diaz2025kernelroms,
     title={Interpretable and flexible non-intrusive reduced-order models using reproducing kernel {H}ilbert spaces},
