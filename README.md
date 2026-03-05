@@ -1,40 +1,41 @@
 ### Big news!
 
-I started as an assistant professor in the [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/) this August.
+I started as an assistant professor in the [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/) in August 2025.
 
 ### Recent research articles
 
-- [**Toward real-time optimization through model reduction and model discrepancy sensitivities**](https://arxiv.org/abs/2508.21792) (Preprint)<details><summary>BibTex</summary><pre>
-@misc{hart2025realtime,
-    title={Toward real-time optimization through model reduction and model discrepancy sensitivities},
-    author = {Joseph Hart and Shane A McQuarrie and Zachary Morrow and Bart van Bloemen Waanders},
-    year = {2025},
-    eprint = {2508.21792},
-    archivePrefix = {arXiv},
-    primaryClass = {math.OC},
-    url = {https://arxiv.org/abs/2508.21792}, 
-}
-
-- [**Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces**](https://arxiv.org/abs/2506.10224) (Preprint)<details><summary>BibTex</summary><pre>
-@misc{diaz2025kernelroms,
-    title={Interpretable and flexible non-intrusive reduced-order models using reproducing kernel {H}ilbert spaces},
-    author = {Alejandro N Diaz and Shane A McQuarrie and John T Tencer and Patrick J Blonigan},
-    year = {2025},
-    eprint = {2506.10224},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CE},
-    url = {https://arxiv.org/abs/2506.10224},
-}
-
 - [**Tensor parametric Hamiltonian operator inference**](https://arxiv.org/abs/2502.10888) (Preprint)<details><summary>BibTex</summary><pre>
 @misc{vijaywargiya2025tensoropinf,
-      title = {Tensor parametric {H}amiltonian operator inference}, 
-      author = {Arjun Vijaywargiya and Shane A McQuarrie and Anthony Gruber},
-      year = {2025},
-      eprint = {2502.10888},
-      archivePrefix = {arXiv},
-      primaryClass = {math.NA},
-      url = {https://arxiv.org/abs/2502.10888},
+    title = {Tensor parametric {H}amiltonian operator inference}, 
+    author = {Arjun Vijaywargiya and Shane A McQuarrie and Anthony Gruber},
+    year = {2025},
+    eprint = {2502.10888},
+    archivePrefix = {arXiv},
+    primaryClass = {math.NA},
+    url = {https://arxiv.org/abs/2502.10888},
+}
+</pre></details>
+
+- [**Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces**](https://www.sciencedirect.com/science/article/pii/S0045782526000083)<details><summary>BibTex</summary><pre>
+@article{diaz2026kernelroms,
+    title = {Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces},
+    journal = {Computer Methods in Applied Mechanics and Engineering},
+    volume = {452},
+    pages = {118734},
+    year = {2026},
+    doi = {10.1016/j.cma.2026.118734},
+}
+</pre></details>
+
+- [**Toward real-time optimization through model reduction and model discrepancy sensitivities**](https://link.springer.com/article/10.1007/s00158-025-04241-2)<details><summary>BibTex</summary><pre>
+@article{hart2026realtime,
+    title = {Toward real-time optimization through model reduction and model discrepancy sensitivities.}
+    author = {Joseph Hart and Shane A McQuarrie and Zachary Morrow and Bart van Bloemen Waanders},
+    journal = {Structural and Multidisciplinary Optimization},
+    volume ={69},
+    number = {62},
+    year = {2026},
+    doi = {10.1007/s00158-025-04241-2},
 }
 </pre></details>
 
